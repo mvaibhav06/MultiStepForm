@@ -1,0 +1,11 @@
+.center-div {
+  justify-content: center !important;
+}
+
+body {
+  margin-left: 10px;
+}
+
+button {
+  margin: 10px;
+}
